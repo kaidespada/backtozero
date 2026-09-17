@@ -6,15 +6,18 @@ using System.Threading.Tasks;
 
 namespace PR2CH4
 {
-    internal class task6
+    internal class task11
     {
         public static void Run()
         {
             int[] numbers = new int[10];
             Random random = new Random();
-            int max = random.Next(0, numbers.Length);
-            int maxIndex = 0;
+            int count = 0;
 
+            Console.WriteLine("Введите число X: ");
+            int X = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Массив: ");
             for (int i = 0; i < numbers.Length; i++)
             {
 
@@ -22,18 +25,30 @@ namespace PR2CH4
                 Console.Write(numbers[i] + " ");
             }
 
-            for (int i = 1; i < numbers.Length; i++)
+            Console.WriteLine();
+
+            bool found = false;
+
+            for (int i = 0; i < numbers.Length; i++)
             {
-                if (numbers[i] > max)
+                if (numbers[i] == X)
                 {
-                    max = numbers[i];
-                    maxIndex = i;
+                    count++;
+                    found = true;
+
                 }
             }
 
-            Console.WriteLine(" ");
-            Console.WriteLine("Максимум: " + max);
-            Console.WriteLine("Индекс:" + maxIndex);
+            if (found)
+            {
+                Console.WriteLine("Входит");
+                Console.WriteLine("Колличество: " + count);
+                Console.WriteLine("");
+            }
+            else
+            {
+                Console.WriteLine("Не входит");
+            }
 
         }
     }

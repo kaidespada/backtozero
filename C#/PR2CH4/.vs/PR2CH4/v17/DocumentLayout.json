@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\backtozero\\C#\\PR2CH4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|c:\\backtozero\\c#\\pr2ch4\\task10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|solutionrelative:task10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|c:\\backtozero\\c#\\pr2ch4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|c:\\backtozero\\c#\\pr2ch4\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|solutionrelative:task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|c:\\backtozero\\c#\\pr2ch4\\task9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|solutionrelative:task9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|c:\\backtozero\\c#\\pr2ch4\\task8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|solutionrelative:task8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|c:\\backtozero\\c#\\pr2ch4\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|solutionrelative:task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|c:\\backtozero\\c#\\pr2ch4\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|solutionrelative:task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|c:\\backtozero\\c#\\pr2ch4\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|solutionrelative:task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|c:\\backtozero\\c#\\pr2ch4\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|solutionrelative:task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|c:\\backtozero\\c#\\pr2ch4\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|solutionrelative:task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|c:\\backtozero\\c#\\pr2ch4\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67071F1-F110-4513-BF9A-99D6ED39B57F}|PR2CH4.csproj|solutionrelative:task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task10.cs",
+              "DocumentMoniker": "C:\\backtozero\\C#\\PR2CH4\\task10.cs",
+              "RelativeDocumentMoniker": "task10.cs",
+              "ToolTip": "C:\\backtozero\\C#\\PR2CH4\\task10.cs",
+              "RelativeToolTip": "task10.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T12:05:15.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task9.cs",
+              "DocumentMoniker": "C:\\backtozero\\C#\\PR2CH4\\task9.cs",
+              "RelativeDocumentMoniker": "task9.cs",
+              "ToolTip": "C:\\backtozero\\C#\\PR2CH4\\task9.cs",
+              "RelativeToolTip": "task9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:52:21.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "task8.cs",
+              "DocumentMoniker": "C:\\backtozero\\C#\\PR2CH4\\task8.cs",
+              "RelativeDocumentMoniker": "task8.cs",
+              "ToolTip": "C:\\backtozero\\C#\\PR2CH4\\task8.cs",
+              "RelativeToolTip": "task8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:46:10.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "task7.cs",
+              "DocumentMoniker": "C:\\backtozero\\C#\\PR2CH4\\task7.cs",
+              "RelativeDocumentMoniker": "task7.cs",
+              "ToolTip": "C:\\backtozero\\C#\\PR2CH4\\task7.cs",
+              "RelativeToolTip": "task7.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:42:56.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "task6.cs",
+              "DocumentMoniker": "C:\\backtozero\\C#\\PR2CH4\\task6.cs",
+              "RelativeDocumentMoniker": "task6.cs",
+              "ToolTip": "C:\\backtozero\\C#\\PR2CH4\\task6.cs",
+              "RelativeToolTip": "task6.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:37:26.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "task5.cs",
+              "DocumentMoniker": "C:\\backtozero\\C#\\PR2CH4\\task5.cs",
+              "RelativeDocumentMoniker": "task5.cs",
+              "ToolTip": "C:\\backtozero\\C#\\PR2CH4\\task5.cs",
+              "RelativeToolTip": "task5.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:28:09.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task4.cs",
+              "DocumentMoniker": "C:\\backtozero\\C#\\PR2CH4\\task4.cs",
+              "RelativeDocumentMoniker": "task4.cs",
+              "ToolTip": "C:\\backtozero\\C#\\PR2CH4\\task4.cs",
+              "RelativeToolTip": "task4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:24:09.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "task3.cs",
+              "DocumentMoniker": "C:\\backtozero\\C#\\PR2CH4\\task3.cs",
+              "RelativeDocumentMoniker": "task3.cs",
+              "ToolTip": "C:\\backtozero\\C#\\PR2CH4\\task3.cs",
+              "RelativeToolTip": "task3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:19:45.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "task2.cs",
+              "DocumentMoniker": "C:\\backtozero\\C#\\PR2CH4\\task2.cs",
+              "RelativeDocumentMoniker": "task2.cs",
+              "ToolTip": "C:\\backtozero\\C#\\PR2CH4\\task2.cs",
+              "RelativeToolTip": "task2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:17:52.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "task1.cs",
+              "DocumentMoniker": "C:\\backtozero\\C#\\PR2CH4\\task1.cs",
+              "RelativeDocumentMoniker": "task1.cs",
+              "ToolTip": "C:\\backtozero\\C#\\PR2CH4\\task1.cs",
+              "RelativeToolTip": "task1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T18:21:43.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\backtozero\\C#\\PR2CH4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\backtozero\\C#\\PR2CH4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T18:19:42.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

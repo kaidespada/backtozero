@@ -1,0 +1,15 @@
+C:\backtozero\C#\PR2CH3\obj\Debug\net8.0\PR2CH3.GeneratedMSBuildEditorConfig.editorconfig
+C:\backtozero\C#\PR2CH3\obj\Debug\net8.0\PR2CH3.AssemblyInfoInputs.cache
+C:\backtozero\C#\PR2CH3\obj\Debug\net8.0\PR2CH3.AssemblyInfo.cs
+C:\backtozero\C#\PR2CH3\obj\Debug\net8.0\PR2CH3.csproj.CoreCompileInputs.cache
+C:\backtozero\C#\PR2CH3\obj\Debug\net8.0\PR2CH3.sourcelink.json
+C:\backtozero\C#\PR2CH3\bin\Debug\net8.0\PR2CH3.exe
+C:\backtozero\C#\PR2CH3\bin\Debug\net8.0\PR2CH3.deps.json
+C:\backtozero\C#\PR2CH3\bin\Debug\net8.0\PR2CH3.runtimeconfig.json
+C:\backtozero\C#\PR2CH3\bin\Debug\net8.0\PR2CH3.dll
+C:\backtozero\C#\PR2CH3\bin\Debug\net8.0\PR2CH3.pdb
+C:\backtozero\C#\PR2CH3\obj\Debug\net8.0\PR2CH3.dll
+C:\backtozero\C#\PR2CH3\obj\Debug\net8.0\refint\PR2CH3.dll
+C:\backtozero\C#\PR2CH3\obj\Debug\net8.0\PR2CH3.pdb
+C:\backtozero\C#\PR2CH3\obj\Debug\net8.0\PR2CH3.genruntimeconfig.cache
+C:\backtozero\C#\PR2CH3\obj\Debug\net8.0\ref\PR2CH3.dll

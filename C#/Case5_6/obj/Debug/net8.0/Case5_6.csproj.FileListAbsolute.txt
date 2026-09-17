@@ -1,0 +1,15 @@
+C:\backtozero\C#\Case5_6\bin\Debug\net8.0\Case5_6.exe
+C:\backtozero\C#\Case5_6\bin\Debug\net8.0\Case5_6.deps.json
+C:\backtozero\C#\Case5_6\bin\Debug\net8.0\Case5_6.runtimeconfig.json
+C:\backtozero\C#\Case5_6\bin\Debug\net8.0\Case5_6.dll
+C:\backtozero\C#\Case5_6\bin\Debug\net8.0\Case5_6.pdb
+C:\backtozero\C#\Case5_6\obj\Debug\net8.0\Case5_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\backtozero\C#\Case5_6\obj\Debug\net8.0\Case5_6.AssemblyInfoInputs.cache
+C:\backtozero\C#\Case5_6\obj\Debug\net8.0\Case5_6.AssemblyInfo.cs
+C:\backtozero\C#\Case5_6\obj\Debug\net8.0\Case5_6.csproj.CoreCompileInputs.cache
+C:\backtozero\C#\Case5_6\obj\Debug\net8.0\Case5_6.sourcelink.json
+C:\backtozero\C#\Case5_6\obj\Debug\net8.0\Case5_6.dll
+C:\backtozero\C#\Case5_6\obj\Debug\net8.0\refint\Case5_6.dll
+C:\backtozero\C#\Case5_6\obj\Debug\net8.0\Case5_6.pdb
+C:\backtozero\C#\Case5_6\obj\Debug\net8.0\Case5_6.genruntimeconfig.cache
+C:\backtozero\C#\Case5_6\obj\Debug\net8.0\ref\Case5_6.dll

@@ -35,7 +35,8 @@ namespace PR2CH4
                     case 19: task19.Run(); break;
                     case 20: task20.Run(); break;
                     case 21: task21.Run(); break;
-                    //case 22: task22.Run(); break;
+                    case 22: task22.Run(); break;
+                    case 23: task23.Run(); break;
 
                     default: Console.WriteLine("Нет такой задачи"); break;
                 }

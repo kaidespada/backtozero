@@ -33,8 +33,8 @@ namespace PR2CH4
                     case 16: task16.Run(); break;
                     case 17: task17.Run(); break;
                     case 18: task18.Run(); break;
-                    //case 19: task19.Run(); break;
-                    //case 20: task20.Run(); break;
+                    case 19: task19.Run(); break;
+                    case 20: task20.Run(); break;
                     //case 21: task21.Run(); break;
                     //case 22: task22.Run(); break;
                     //case 23: task23.Run(); break;
